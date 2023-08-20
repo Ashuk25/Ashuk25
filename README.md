@@ -1,3 +1,4 @@
+![logo](https://github.com/Ashuk25/Ashuk25/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Ashutosh Kanojiya</h1>
 <h3 align="center">A Passionate about machine learning from India</h3>
 
