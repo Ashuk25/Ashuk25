@@ -33,7 +33,7 @@
 |----------------|---------------------------------------------------|
 | Languages      | Python, SQL, GraphQL                              |
 | Libraries      | NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn  |
-| Cloud          | AWS, GCP                                           |
+| Cloud          | AWS, Azure                                           |
 | Databases      | MSSQL, MySQL, PostgreSQL, MongoDB, Firebase                        |
 | APIs & Tools   | Postman, REST, GraphQL, Git, VS Code                       |
 | Visualization  | Tableau, Power BI, Jupyter Notebook               |
