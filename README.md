@@ -1,17 +1,18 @@
 ![logo](Banner.png)
 
-<style>
-    td, th {
-        border: none!important;
-    }
-</style>
-
-| |   |
-|--|--|                          
-| <h1>👋 Hi, I'm Ashutosh Kanojiya</h1> | <td rowspan="3"><img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="300" alt="Ashutosh's GitHub stats" /></td>
-| I'm a <strong>Senior Software Engineer</strong> with over <strong>5 years of experience</strong> in building scalable, intelligent, and data-driven applications. 
-| My passion lies in combining software engineering with data science and AI to deliver impactful solutions.
-
+<table style="border: 0px;">
+  <tr>
+    <td style="border: none; vertical-align: top;">
+      <h1>👋 Hi, I'm Ashutosh Kanojiya</h1>
+      <p>
+        I'm a <strong>Senior Software Engineer</strong> with over <strong>5 years of experience</strong> in building scalable, intelligent, and data-driven applications. My passion lies in combining software engineering with data science and AI to deliver impactful solutions.
+      </p>
+    </td>
+    <td style="border: none;">
+      <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="100%" alt="Ashutosh's GitHub stats" />
+    </td>
+  </tr>
+</table>
 
 ---
 
